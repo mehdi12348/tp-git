@@ -8,3 +8,4 @@ Mon premier projet HTML et CSS.
 - style.css
 - README.md
 - .gitignore
+Modification effectuée sur GitHub
